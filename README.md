@@ -1,4 +1,6 @@
-# merge-images
+# @rolodromo/merge-images
+
+This is a temporal fork of [merge-images](https://www.npmjs.com/package/merge-images) until PR #63 gets merged.
 
 > Easily compose images together without messing around with canvas
 
